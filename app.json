@@ -8,8 +8,8 @@
         "Telegram Bot"
     ],
     "website": "https://avipatilweb.me",
-    "repository": "https://github.com/avipatilpro/AnonFliesBot",
-    "success_url": "https://telegram.me/AvishkarPatil",
+    "repository": "https://github.com/Falana-Dhikana/AnonFiles",
+    "success_url": "https://telegram.me/Genetry",
     "env": {
         "BOT_TOKEN": {
             "description": "Your Telegram Bot Token from @BotFather",
